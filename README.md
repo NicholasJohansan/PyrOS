@@ -8,10 +8,12 @@ __Games__
 - Hangman
 - Guess the number
 - Robot Warfare [TIRWS]
+
 __Cipher__
 - Playfair Cipher
 - Caesar Cipher
 - Country Cipher
+
 __Calc__
 - kinda useless evaluator of simple maths
 
