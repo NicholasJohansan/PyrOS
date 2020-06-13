@@ -4,6 +4,7 @@ PyrOS is a console-based operating system that hopefully can help you partially 
 It have become more easily distributable as well as using a database stored clientside, so every version will still save your account.
 
 Currently, PyrOS has:
+
 __Games__
 - Hangman
 - Guess the number
